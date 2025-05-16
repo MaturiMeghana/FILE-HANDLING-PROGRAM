@@ -21,6 +21,8 @@ fclose(): Closes a file.
 fprintf(): Writes formatted data to a file.
 fgetc(): Reads a character from a file.
 putchar(): Writes a character to standard output.
+*platform*
+  Turbo c++ 4.0 windows 7 windows 8 64bits version
 *REAL WORD APPLICATION*
   Data Logging: Recording application logs or sensor data for analysis.
   Configuration Files: Storing user settings or application configurations.
